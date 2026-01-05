@@ -23,7 +23,7 @@ In this step, you define the **core attributes** of the migration project. These
 
 > ⚠️ The migration scenario **cannot be changed later**.
 
-![Step 1 – General Data](img/1_Project.png)
+![Step 1 – General Data](../img/1_Project.png)
 
 ---
 
@@ -38,7 +38,7 @@ The Migration Cockpit selects data from the source system **based on organizatio
 
 > 📌 Data outside the selected organizational units is **ignored** by the Migration Cockpit.
 
-![Step 2 – Data Selection](img/2_Project.png)
+![Step 2 – Data Selection](../img/2_Project.png)
 
 ---
 
@@ -60,7 +60,7 @@ In this step, you review and (optionally) select **migration objects**.
 
 This message is **informational**, not an error. Migration objects can be selected or adjusted later.
 
-![Step 3 – Migration Objects](img/3_Project.png)
+![Step 3 – Migration Objects](../img/3_Project.png)
 
 ---
 
@@ -79,7 +79,7 @@ This confirms:
 * Scenario and approach are correctly assigned
 * Project is ready for migration object configuration
 
-![Step 4 – Project Created](img/4_Project.png)
+![Step 4 – Project Created](../img/4_Project.png)
 
 ---
 

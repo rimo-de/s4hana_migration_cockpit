@@ -23,13 +23,13 @@ The documentation is divided into logical segments that align with the lifecycle
 
 | Topic Name                                                                                                                                  | Detailed Description                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Prerequisites**                                                                                                                           | [docs/prerequisites.md](docs/prerequisites.md)                         |
+| **Prerequisites**                                                                                                                           | [Pre-requisites](docs/prerequisites.md)                         |
 | Covers system requirements, SAP Notes, authorizations, RFC setup, and technical prerequisites required before creating a migration project. |                                                                        |
-| **Project Creation**                                                                                                                        | [docs/project-creation.md](docs/project-creation.md)                   |
+| **Project Creation**                                                                                                                        | [Project Creation](docs/project-creation.md)                   |
 | Explains how to create a migration project, choose the migration approach, select the scenario, and connect to the source system.           |                                                                        |
-| **Migration Object Creation**                                                                                                               | [docs/migration-object-creation.md](docs/migration-object-creation.md) |
+| **Migration Object Creation**                                                                                                               | [Migration Object creation](docs/migration-object-creation.md) |
 | Details how to select, understand, and manage migration objects, including dependencies, object structure, and common pitfalls.             |                                                                        |
-| **Migration Execution**                                                                                                                     | [docs/migration-execution.md](docs/migration-execution.md)             |
+| **Migration Execution**                                                                                                                     | [Actual Migration](docs/migration-execution.md)             |
 | Describes the end-to-end migration process: data load, simulation, migration runs, monitoring, error handling, and validation.              |                                                                        |
 
 ---
