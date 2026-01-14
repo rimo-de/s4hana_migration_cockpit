@@ -25,7 +25,11 @@ The migration process starts by selecting the data for a specific **Migration Ob
 - Choose the migration object
 - Click **Select Data** from the Action menu
 
-![Select Data](../img/18_Migrate_Data.png)
+![Select Data1](../img/Migration_Process_1.png)
+
+![Select Data2](../img/Migration_Process_2.png)
+
+![Select Data3](../img/Migration_Process_3.png)
 
 ---
 
@@ -38,7 +42,11 @@ Key features:
 - Users can **download mapping templates (Excel)**
 - Mapping values can be **uploaded back via Excel**
 
-![Prepare Mapping Tasks](../img/19_Migrate_Data.png)
+![Prepare Mapping Tasks1](../img/Migration_Process_4.png)
+
+![Prepare Mapping Tasks2](../img/Migration_Process_5.png)
+
+![Prepare Mapping Tasks3](../img/Migration_Process_6.png)
 
 ---
 
@@ -57,8 +65,13 @@ Features:
 - Status tracking (Confirmed / To Be Confirmed)
 - Bulk upload supported via Excel
 
-![Mapping Tasks List](../img/20_Migrate_Data.png)  
-![Mapping Task Details](../img/21_Migrate_Data.png)
+![Mapping Tasks 1](../img/Migration_Process_7.png)
+
+![Mapping Tasks 2](../img/Migration_Process_8.png)
+
+![Mapping Tasks 3](../img/Migration_Process_9.png)
+
+![Mapping Tasks 4](../img/Migration_Process_10.png)
 
 ---
 
@@ -72,6 +85,15 @@ Simulation validates the migration without posting data.
 
 Simulation status is visible directly in the Migration Project overview.
 
+![Simulation 1](../img/Migration_Process_11.png)
+
+![Simulation 2](../img/Migration_Process_12.png)
+
+![Simulation 3](../img/Migration_Process_13.png)
+
+![Simulation 4](../img/Migration_Process_14.png)
+
+
 ---
 
 ## 5. Migration
@@ -83,7 +105,13 @@ After a successful simulation, the actual migration is executed.
 - Success, error, and not-started counts displayed
 - Detailed logs available via **Detailed View**
 
-![Migration Success](../img/22_Migrate_Data.png)
+![Migration Success 1](../img/Migration_Process_15.png)
+
+![Migration Success 2](../img/Migration_Process_16.png)
+
+![Migration Success 3](../img/Migration_Process_17.png)
+
+![Migration Success 4](../img/Migration_Process_18.png)
 
 ---
 
