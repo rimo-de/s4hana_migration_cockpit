@@ -17,7 +17,7 @@ Key activities:
 * Assign the migration project
 * Provide business name and technical name
 
-![Step 1 – Create Migration Object](../img/5_Migration_Object.png)
+![Step 1 – Create Migration Object](../img/Migration_Object_1.png)
 
 ---
 
@@ -33,7 +33,7 @@ Key activities:
 
 This ensures consistent data extraction during migration.
 
-![Step 2 – Source Tables & Relationships](../img/6_Migration_Object.png)
+![Step 2 – Source Tables & Relationships](../img/Migration_Object_2.png)
 
 ---
 
@@ -48,7 +48,7 @@ Key activities:
 
 Example identifiers include company code, bank ID, account ID, and statement number/date.
 
-![Step 3 – Unique Object ID](../img/7_Migration_Object.png)
+![Step 3 – Unique Object ID](../img/Migration_Object_3.png)
 
 ---
 
@@ -63,7 +63,9 @@ Key activities:
 
 This allows organizational filters (e.g. company code) to be applied at project or runtime level.
 
-![Step 4 – Data Selection](../img/8_Migration_Object.png)
+![Step 4 – Data Selection](../img/Migration_Object_4.png)
+
+![Step 5 – Data Selection](../img/Migration_Object_5.png)
 
 ---
 
@@ -77,7 +79,7 @@ Key activities:
 * Enable simulation mode for test runs
 * Define simulation parameters
 
-![Step 5 – Target API](../img/9_Migration_Object.png)
+![Step 6 – Data Selection](../img/Migration_Object_6.png)
 
 ---
 
@@ -93,7 +95,7 @@ Key activities:
 
 This step is essential for proper error handling and monitoring.
 
-![Step 6 – API Call Results](../img/10_Migration_Object.png)
+![Step 7 – Data Selection](../img/Migration_Object_7.png)
 
 ---
 
@@ -107,7 +109,7 @@ Key activities:
 * Check simulation and success evaluation flags
 * Complete and save the object
 
-![Step 7 – Summary](../img/11_Migration_Object.png)
+![Step 8 – Summary](../img/Migration_Object_8.png)
 
 ---
 
@@ -120,7 +122,7 @@ Key activities:
 * Assign internal tables to API parameters
 * Validate correct structural alignment
 
-![Step 8 – Structure Mapping](../img/12_Migration_Object.png)
+![Step 9 – Summary](../img/Migration_Object_9.png)
 
 ---
 
@@ -134,7 +136,7 @@ Key activities:
 * Identify fields requiring transformation
 * Prepare fields for rule-based mapping
 
-![Step 9 – Field Mapping](../img/13_Migration_Object.png)
+![Step 10 – Summary](../img/Migration_Object_10.png)
 
 ---
 
@@ -150,7 +152,7 @@ Key activities:
 
 Typical use cases include company code, bank key, and account ID mapping.
 
-![Step 10 – Value Mapping Rules](../img/14_Migration_Object.png)
+![Step 11 – Summary](../img/Migration_Object_11.png)
 
 ---
 
@@ -164,7 +166,7 @@ Key activities:
 * Bind importing and exporting parameters
 * Verify rule assignment
 
-![Step 11 – Assign Mapping Rules](../img/15_Migration_Object.png)
+![Step 12 – Summary](../img/Migration_Object_10.png)
 
 ---
 
@@ -178,4 +180,4 @@ Key activities:
 * Confirm all rules are active
 * Resolve missing assignments
 
-![Step 12 – Validate Mapping](../img/16_Migration_Object.png)
+
